@@ -10,12 +10,16 @@ Anomaly detection
 Risk assessment
 Decision-making (ALLOW / MFA / BLOCK)
 Automated response actions
+
 System Architecture
+
 Detection Agent → identifies anomalies
 Decision Agent → evaluates risk
 Response Agent → executes actions
 Logger Agent → records results
+
 Technologies Used
+
 Python
 Google Colab
 Rule-based AI simulation
