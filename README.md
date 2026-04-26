@@ -24,3 +24,17 @@ Python
 Google Colab
 Rule-based AI simulation
 Multi-agent system design
+
+
+
+
+Output: 
+
+=== AUTONOMOUS SECURITY SYSTEM OUTPUT ===
+User ID: U1001
+Anomaly Score: 1.0
+Risk Level: HIGH
+Decision: BLOCK
+
+Rule-based AI simulation
+Multi-agent system design
